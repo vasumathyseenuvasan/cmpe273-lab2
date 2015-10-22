@@ -1,0 +1,7 @@
+1. Set GOPATH:
+Linux:
+$ export GOPATH=/c/Users/vasumathy/Documents/Vasu/SJSU/273_Course/Lab2
+Windows:
+set GOPATH="c:/Users/vasumathy/Documents/Vasu/SJSU/273_Course/Lab2"
+
+3. Go to the directory of the source package (Lab2). Exceute the source file "go run hello.go"
